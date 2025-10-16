@@ -1,0 +1,8 @@
+# Ignore test files for solhint
+test/**/*.sol
+
+# Ignore library dependencies
+lib/**/*.sol
+
+# Ignore node modules
+node_modules/**/*.sol
