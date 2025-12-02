@@ -53,8 +53,8 @@ The Hermis smart contract suite is organized into modular layers for flexibility
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/hermis-protocol.git
-   cd hermis-protocol/contracts
+   git clone https://github.com/web3heichenya/hermis-contracts
+   cd hermis-contracts
    ```
 2. **Install dependencies**
    ```bash
@@ -284,7 +284,3 @@ Hermis Protocol is licensed under the MIT License – see [LICENSE](LICENSE) for
 ## ⚠️ Disclaimer
 
 Hermis Protocol is experimental software. Interact at your own risk. Audit results, test coverage, and deployment artifacts are provided for transparency but do not eliminate risk. Always review contracts and understand the implications before staking funds.
-
----
-
-*Built with ❤️ by the Hermis Protocol Team*
